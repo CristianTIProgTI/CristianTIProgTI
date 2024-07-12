@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CristianTIProgTI.
 - 👀 I'm interested in a Junior Front End Web Developer job.
-- 🌱 I’m currently learning Web Front End.
+- 🌱 HTML / CSS / Javascript
 - 📫 How to reach me: cristiprogti@gmail.com
   
 <!---
